@@ -43,7 +43,7 @@ const Testimonials = () => {
                                     <span>Edusity,Delhi</span>
                                 </div>
                             </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis cumque error minima dolorum aperiam consectetur praesentium tempora consequuntur veritatis cupiditate impedit, ex eos sunt ipsa, aspernatur repellendus magnam rem ab?
+                            <p>From team building to digital leadership, the 5-day residential experience funded by the Ministry of Education delivered practical tools I now use daily. It's inspiring to see how it bridges teaching, research, and administration for India's future educators.
                             </p>
                         </div>
                     </li>
@@ -56,8 +56,7 @@ const Testimonials = () => {
                                     <span>Edusity,Delhi</span>
                                 </div>
                             </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis cumque error minima dolorum aperiam consectetur praesentium tempora consequuntur veritatis cupiditate impedit, ex eos sunt ipsa, aspernatur repellendus magnam rem ab?
-                            </p>
+                            <p>From team building to digital leadership, the 5-day residential experience funded by the Ministry of Education delivered practical tools I now use daily. It's inspiring to see how it bridges teaching, research, and administration for India's future educators.
                         </div>
                     </li>
                     <li>
@@ -69,7 +68,7 @@ const Testimonials = () => {
                                     <span>Edusity,Delhi</span>
                                 </div>
                             </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis cumque error minima dolorum aperiam consectetur praesentium tempora consequuntur veritatis cupiditate impedit, ex eos sunt ipsa, aspernatur repellendus magnam rem ab?
+                            <p>From team building to digital leadership, the 5-day residential experience funded by the Ministry of Education delivered practical tools I now use daily. It's inspiring to see how it bridges teaching, research, and administration for India's future educators.
                             </p>
                         </div>
                     </li>
@@ -82,7 +81,7 @@ const Testimonials = () => {
                                     <span>Edusity,Delhi</span>
                                 </div>
                             </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis cumque error minima dolorum aperiam consectetur praesentium tempora consequuntur veritatis cupiditate impedit, ex eos sunt ipsa, aspernatur repellendus magnam rem ab?
+                            <p>From team building to digital leadership, the 5-day residential experience funded by the Ministry of Education delivered practical tools I now use daily. It's inspiring to see how it bridges teaching, research, and administration for India's future educators.
                             </p>
                         </div>
                     </li>
